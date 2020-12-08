@@ -1,1 +1,7 @@
-abcd
+<?xml version='1.0' encoding='utf-8'?>
+<note>
+<to>Hello</to>
+<from>From Bharati</from>
+<heading>Trial</heading>
+<body>Yo!</body>
+</note>
