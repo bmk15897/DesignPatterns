@@ -1,12 +1,5 @@
-/**
- * 
- */
 package structural.bridge;
 
-/**
- * @author Kulkarni
- *
- */
 public class Circle extends Shape {
 
 	public Circle(Color color) {
@@ -17,5 +10,4 @@ public class Circle extends Shape {
 	public void applyColor() {
 		color.applyColor();
 	}
-
 }
